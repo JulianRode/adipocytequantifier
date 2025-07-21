@@ -1,6 +1,7 @@
 # adipocytequantifier
-A FIJI macro to quantify adipocytes in H&amp;E images. A modified version of Adiposoft created by Miguel Galarraga (mgalarraga@unav.es), and Mikel Ariz (mikelariz@unav.es) of the Imaging Unit at the Center for Applied Medical Research (CIMA) of the University of Navarra, in Pamplona (Spain)
+A FIJI macro to quantify adipocytes in H&amp;E images. A modified version of Adiposoft created by Miguel Galarraga (mgalarraga@unav.es), and Mikel Ariz (mikelariz@unav.es) of the Imaging Unit at the Center for Applied Medical Research (CIMA) of the University of Navarra, in Pamplona (Spain).
 
+Original Adiposoft:
 Boqué N, Campión J, Paternain L, García-Díaz DF, Galarraga M, Portillo MP, Milagro FI, Ortiz de Solórzano C, Martínez JA. Influence of dietary macronutrient composition on adiposity and cellularity of different fat depots in Wistar rats. J Physiol Biochem. 2009 Dec;65(4):387-95. PubMed PMID: 20358352
 
 
