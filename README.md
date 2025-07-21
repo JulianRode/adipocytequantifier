@@ -25,8 +25,4 @@ I recommend keeping the box “Hide procedure” checked, except if you want to 
 The macro will output the analysed images in a folder structure identical to the input and create two excel files. One has the raw quantification output (cell area or average optical density of DAB) of every detected cell and the one called evaluation has a summary of every image, including the mean cell area and how many cells were detected in each image.
 
 ---
-Use the R script adipocytequantifier.R to create polished graphs
-
----
-Create a polished graph in R:
-Use the file 
+Use the R script adipocytequantifier.R to create polished graphs.
